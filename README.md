@@ -1,0 +1,2 @@
+# Project-Report-N-Way-Round-Robin-Arbiter-for-GPU-Shared-Memory
+his project explores the design and simulation of an N-way round-robin arbiter—a fundamental hardware component used in GPU shared memory systems to ensure fair and efficient access among multiple processing units. Inspired by real-world GPU architectures (such as NVIDIA), the arbiter is implemented in VHDL and verified using ModelSim.
